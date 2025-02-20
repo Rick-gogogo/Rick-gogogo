@@ -5,7 +5,8 @@ I am a experienced software engineer. Here is the place where keep growing.
 - Application Backend Developer
 - Game Backend Developer
  
-- 😄 Which language I prefered use: C/Java/PHP/Python
+- 😄 Which language I prefered use:
+- C / Java / PHP
 <!--
 **Rick-gogogo/Rick-gogogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
