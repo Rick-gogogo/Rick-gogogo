@@ -1,11 +1,11 @@
 ## Hi there 👋
 I am a experienced software engineer. Here is the place where keep growing.
-[x]🌱 What do I do and I have done?
+##🌱 What do I do and I have done?
 * Full stack Developer
 * Application Backend Developer
 * Game Backend Developer
  
-[x]😄 Which language I prefered use:
+##😄 Which language I prefered use:
 * C
 * Java
 * PHP
