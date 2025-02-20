@@ -8,7 +8,7 @@ I am a software engineer and here is the place where I keep growing myself.
 ## 😄 Which language and related stack I prefered to use:
 * C - More for practice, which help me understand the underlying principles of the code, as most advanced languages with libs are well-packaged and ready to use. 
 * Java - Full stack development for web applications, plus ideally for game server, including long connection and short connection.
-* PHP - Full stack development for small and medium-sized enterprise web applications with fast pace.
+* PHP - Full stack development for small and medium-sized enterprise web applications with fast pace iteration.(As a scripting language, it does not require compilation or packaging)
 
 ## 📫 How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/rick-huang-543950134/)
