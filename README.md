@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a experienced software engineer. Here is the place where keep growing.
+I am a software engineer and here is the place keep growing.
 ## 🌱 What do I do and I have done?
 * Full stack Developer
 * Application Backend Developer
