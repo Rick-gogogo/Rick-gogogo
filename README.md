@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🌱 What do I do and I have done?
+- - Look
 <!--
 **Rick-gogogo/Rick-gogogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
