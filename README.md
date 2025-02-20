@@ -9,6 +9,9 @@ I am a experienced software engineer. Here is the place where keep growing.
 * C
 * Java
 * PHP
+
+## 📫 How to reach me:
+* ([LinkedIn](https://www.linkedin.com/in/rick-huang-543950134/))
 <!--
 **Rick-gogogo/Rick-gogogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
