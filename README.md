@@ -5,10 +5,10 @@ I am a software engineer and here is the place where I keep growing myself.
 * Application Backend Developer - As a principle prgrommer built Restful APIs for Telecom industry.
 * Game Backend Developer - As a principle programmer shipped mutilple online games.
  
-## 😄 Which language I prefered use:
-* C
-* Java
-* PHP
+## 😄 Which language and related stack I prefered to use:
+* C - More for practice, which help me understand the underlying principles of the code, as most advanced languages with libs are well-packaged and ready to use. 
+* Java - Full stack development, plus ideally for game server, including long connection and short connection.
+* PHP - Full stack development for small and medium-sized enterprise applications with fast pace.
 
 ## 📫 How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/rick-huang-543950134/)
