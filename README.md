@@ -1,6 +1,9 @@
 ## Hi there 👋
+I am a experienced software engineer. Here is the place where keep growing.
 - 🌱 What do I do and I have done?
-- - Look
+- 
+ 
+- 😄 Which language I prefered use: C/Java/PHP/Python
 <!--
 **Rick-gogogo/Rick-gogogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
