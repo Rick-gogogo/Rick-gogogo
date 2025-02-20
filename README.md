@@ -1,9 +1,9 @@
 ## Hi there 👋
 I am a software engineer and here is the place where I keep growing myself.
 ## 🌱 What do I do and I have done?
-* Full stack Developer
-* Application Backend Developer
-* Game Backend Developer
+* Full stack Developer - As a Full stack developer built multiple websites for local small business.
+* Application Backend Developer - As a principle prgrommer built Restful APIs for Telecom industry.
+* Game Backend Developer - As a principle programmer shipped mutilple online games.
  
 ## 😄 Which language I prefered use:
 * C
