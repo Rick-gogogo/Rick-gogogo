@@ -6,7 +6,7 @@ I am a software engineer and here is the place where I keep growing myself.
 * Game Backend Developer - As a principle programmer shipped mutilple online games, including MMORPG and SCG, etc.
  
 ## 😄 Which language and related stack I prefered to use:
-* C - More for practice, which help me understand the underlying principles of the code, as most advanced languages with libs are well-packaged and ready to use. 
+* C - More for practice, which help me understand what is going on behind the scene, as most advanced languages used many technics with well-packed libs and ready to use. 
 * Java - Full stack development for web applications, plus ideally for game server, including long connection and short connection.
 * PHP - Full stack development for small and medium-sized enterprise web applications with fast pace iteration.(As a scripting language, it does not require compilation or packaging)
 
