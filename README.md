@@ -6,9 +6,14 @@ I am a software engineer and here is the place where I keep growing myself.
 * Game Backend Developer - As a principle programmer shipped mutilple online games, including MMORPG and SCG, etc.
  
 ## 😄 Which language and related stack I prefered to use:
-* C - More for practice, which help me understand what is going on behind the scene, as most advanced languages used many technics with well-packed libs and ready to use. 
-* Java - Full stack development for web applications, plus ideally for game server, including long connection and short connection.
-* PHP - Full stack development for small and medium-sized enterprise web applications with fast pace iteration.(As a scripting language, it does not require compilation or packaging)
+* .NET 8 + C# 12 -- Working as Backend API. Paractice for Functional Programming, such as LINQ, delegates, lambda expressions, and immutable data structures.
+* Java -- Working as Backend API and Backend game server, including long connection and short connection.
+* PHP -- Working as Backend API and web applications with fast pace iteration. (As a scripting language, it does not require compilation or packaging)
+* C -- More for practice, which help me understand what is going on behind the scene, as most advanced languages used many technics with well-packed libs and ready to use. 
+* React
+* Angular
+* CSS Bootstrap
+* CSS Tailwind
 
 ## 📫 How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/rick-huang-543950134/)
