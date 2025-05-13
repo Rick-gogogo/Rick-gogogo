@@ -6,7 +6,7 @@ I am a software engineer and here is the place where I keep growing myself.
 * Full stack Developer - As a full stack developer built multiple websites for local small business.
  
 ## 😄 Which language and related stack I prefered to use:
-* .NET 8 + C# 12 -- Worked as Web Backend API. Paractice for Functional Programming, such as LINQ, delegates, lambda expressions, and immutable data structures.
+* .NET 8 with C# 12 -- Worked as Web Backend API. Paractice for Functional Programming, such as LINQ, delegates, lambda expressions, and immutable data structures.
 * Java -- Worked as Web Backend API and Backend game server, including long connection and short connection.
 * PHP -- Worked as Web Backend API with fast pace iteration. (As a scripting language, it does not require compilation or packaging)
 * C -- For practice, which help me understand what is going on behind the scene, as most advanced languages used many technics with well-packed libs and ready to use. 
