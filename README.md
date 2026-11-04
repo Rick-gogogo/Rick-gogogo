@@ -1,8 +1,8 @@
 ## Hi there 👋
 I am a software engineer and here is the place where I keep growing myself.
 ## 🌱 What do I do and I have done?
-* Game Backend Developer - As a principle programmer shipped mutilple online games, including MMORPG and SCG, etc.
-* Backend Developer - As a principle prgrommer built Restful APIs for Telecom industry and Trading industry.
+* Game Backend Developer - As a senior developer shipped mutilple online games, including MMORPG and SCG, etc.
+* Backend Developer - As a senior developer built Restful APIs for Telecom industry and Trading industry.
 * Full stack Developer - As a full stack developer built multiple websites for local small business.
 ## 🌱 What projects I did/involved or I have done during my career?
 * (Butterfly Sword / 流星蝴蝶剑) - This 3D MMORPG online game was launched in both Mainland China and Taiwan, quickly became a highly popular and well-known product at the time.
