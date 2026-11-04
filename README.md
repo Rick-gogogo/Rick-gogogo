@@ -13,10 +13,8 @@ I am a software engineer and here is the place where I keep growing myself.
 * Java -- Worked as Web Backend API and Backend game server, including long connection and short connection.
 * PHP -- Worked as Web Backend API with fast pace iteration. (As a scripting language, it does not require compilation or packaging)
 * C -- For practice, which help me understand what is going on behind the scene, as most advanced languages used many technics with well-packed libs and ready to use. 
-* ReactJS -- Currently learning
-* AngularJS -- Currently learning
-* CSS Bootstrap
-* CSS Tailwind
+* Python -- For data analysis purposes.
+
 
 ## 📫 How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/rick-huang-543950134/)
