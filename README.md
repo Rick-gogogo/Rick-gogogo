@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a software engineer and here is the place where I keep growing myself.
+I am a software engineer and a new MS-CS student, and here is the place where I keep growing myself.
 ## 🌱 What do I do and I have done?
 * Game Backend Developer - As a senior developer shipped mutilple online games, including MMORPG and SCG, etc.
 * Backend Developer - As a senior developer built Restful APIs for Telecom industry and Trading industry.
@@ -8,6 +8,7 @@ I am a software engineer and here is the place where I keep growing myself.
 * (Butterfly Sword / 流星蝴蝶剑) - This 3D MMORPG online game was launched in both Mainland China and Taiwan, quickly became a highly popular and well-known product at the time.
 * (KouDaiSanGu / 口袋三国 ) - This WAP game was launched on SINA WeiBo (新浪微博) and achieved great result at the time.
 * (SanGuoShenJi / 三国神記) - This Social Card Game was launched on Android Google Play and iOS Appstore in Japan and achieved a great result. (PM is a Japanese from GREE Japan).
+* In-house CRMs in telecom and trading.
 ## 😄 Which language and related stack I prefered to use:
 * .NET 8 with C# 12 -- Worked as Web Backend API. Paractice for Functional Programming, such as LINQ, delegates, lambda expressions, and immutable data structures.
 * Java -- Worked as Web Backend API and Backend game server, including long connection and short connection.
