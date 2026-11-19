@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a software engineer and a new MS-CS student, and here is the place where I keep growing myself.
+I am a software engineer and a MS-CS student, and here is the place where I keep growing myself.
 ## 🌱 What do I do and I have done?
 * Game Backend Developer - As a senior developer shipped mutilple online games, including MMORPG and SCG, etc.
 * Backend Developer - As a senior developer built Restful APIs for Telecom industry and Trading industry.
